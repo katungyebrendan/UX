@@ -3,7 +3,7 @@ import requests
 import json
 
 # Replace this with your Render FastAPI URL
-API_URL = "https://<your-app-name>.onrender.com/predict/"
+API_URL = "https://eastcoast-1.onrender.com/"
 
 st.title("🐄 East Coast Fever Prediction")
 st.subheader("Using GCN + Knowledge Distillation")
